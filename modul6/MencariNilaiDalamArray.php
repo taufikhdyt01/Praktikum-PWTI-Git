@@ -8,7 +8,7 @@ function cari($array, $cari):bool {
     return false;
 }
 
-$cari = 'Teknologi Informasi';
+$cari = 'Pendidikan Teknologi Informasi';
 $array = [
     'Teknik Informatika', 'Teknik Komputer',
     'Sistem Informasi', 'Teknologi Informasi', 
